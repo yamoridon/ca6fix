@@ -1,6 +1,6 @@
 # ca6fix
 
-[ヘネパタ6版のPDF版](https://tatsu-zine.com/books/computer-architecture-6ed)を買ったらPDFとしての作りにちょっと残念だったところを修正します。
+[ヘネパタ6版のPDF版](https://tatsu-zine.com/books/computer-architecture-6ed)を買ったらPDFとしての作りがちょっと残念だったところを修正します。
 
 * 目次(しおり)が申し訳程度で使えない。
 * 偶数ページが左、記数ページが右に来る様にレイアウトされているのに、見開き表示をすると逆に表示されてしまう。
