@@ -1,0 +1,16 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: ca6fix.py",
+            "type": "python",
+            "request": "launch",
+            "program": "ca6fix.py",
+            "args": ["-i", "コンピュータアーキテクチャ定量的アプローチ第6版-1_0_0-ウォーターマーク削除.pdf", "-o", "out.pdf"],
+            "console": "integratedTerminal"
+        }
+    ]
+}
